@@ -474,4 +474,4 @@ A continuación se presentan los indicadores educativos con formato estandarizad
 
 ---
 
-**¡Listo!** Con esto tienes todas las tablas en Markdown, listas para presentarse de manera clara.
+
